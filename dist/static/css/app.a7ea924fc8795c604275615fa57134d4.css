@@ -1,0 +1,2 @@
+body{padding:30px}.form-control:focus{border-color:#ccc;box-shadow:none;outline:none}.slide-enter-active{animation:slide-in .2s ease-out forwards}.slide-leave-active{animation:slide-out .2s ease-out forwards}@keyframes slide-in{0%{opacity:0;transform:translateY(-30px)}to{opacity:1;transform:translateY(0)}}@keyframes slide-out{0%{opacity:1;transform:translateY(0)}to{opacity:0;transform:translateY(-30px)}}.danger[data-v-2ff4600a],.danger[data-v-29d1acca]{border:1px solid red}
+/*# sourceMappingURL=app.a7ea924fc8795c604275615fa57134d4.css.map */
